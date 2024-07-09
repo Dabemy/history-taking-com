@@ -1,0 +1,26 @@
+html {
+    background-color: #d6cfcb;
+}
+span {
+    margin-right: 5%;
+}
+h1,.guide{
+    text-align: center;
+}
+.bio {
+    color:black; background-color: #c7b7a3; margin-right: 5%; font-size:medium;padding: 6.2%; font-family: Georgia;
+}
+.present {
+    background-color: #c7b7a3; font-size: medium;font-family: georgia; padding: 5%;
+}
+.history {
+    background-color: #c7b7a3; padding: 3%; font-family: Georgia;
+}
+.others {
+    background-color: #c7b7a3; font-weight: 550; padding: 3%; font-size: medium; font-family: Georgia; display: flex; column-gap: 70%;
+}
+.medhistory {
+     text-align: center;
+}
+section { display: flex; column-gap: 5%; justify-content: center;align-items: center;
+}
